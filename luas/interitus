@@ -1,6 +1,7 @@
 {
     "status": 200,
-    "content": "local libs = {
+    "content": 
+"local libs = {
     ['gamesense/http'] = 'gamesense / http',
     ['gamesense/pui'] = 'gamesense / pui',
     ['gamesense/base64'] = 'gamesense / base64',
@@ -2267,4 +2268,5 @@ client.set_event_callback('level_init', function()
 end)
 client.set_event_callback('player_connect_full', function(e) 
 	if client.userid_to_entindex(e.userid) == entity.get_local_player() then ctx.antibruteforce.reset2() end 
-end)"}
+end)"
+}
