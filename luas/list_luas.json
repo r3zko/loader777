@@ -1,0 +1,14 @@
+{
+    "status": "success",
+    "lua_files": [
+        "Amnesia",
+        "amphibiags",
+        "custom health bar",
+        "h1tchance",
+        "hysteria",
+        "redux bullet tracer",
+        "perfection",
+        "thirdperson distance",
+        "unsafe charge in air"
+    ]
+}
